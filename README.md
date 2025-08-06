@@ -16,7 +16,6 @@
 </div>
 
 <br/>
-<br/>
 <h1 align="center">2024-2025 High Stakes Code</h1>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
